@@ -1,3 +1,10 @@
 # ShortIt
 
- A simple url shortener, it takes a long url and generates a shortened hyperlink, it also tracks the amount of clicks on the shortened link. I made this to learn how to use node, npm, ejs, mongoDB and more familarize myself more with JavaScript. 
+A simple URL shortener that taked the longer url generates a random shortened hyperlink with the help of the database. 
+- It also tracks the amount of clicks on the shortened link. 
+
+## Skills learned/used
+* JavaScript 
+  * Node & npm
+  * Express 
+* MongoDB
